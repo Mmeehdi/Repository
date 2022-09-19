@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:leap2="http://terms.leapspecs.org/"
+    xmlns:categories="http://wiki.leapspecs.org/2A/categories/"
+    xmlns:portfolio="https://eportfolio.u-pec.fr/export/leap/3538/1663572153/"
+    xmlns:mahara="http://wiki.mahara.org/Developer_Area/Import%2F%2FExport/LEAP_Extensions#"
+>
+    <leap2:version>http://www.leapspecs.org/2010-07/2A/</leap2:version>
+    <id>https://eportfolio.u-pec.fr/export/3538/1663572153</id>
+    <title>Mahara Leap2A Export for Mehdi BELOUKA, 19/09/2022 09:22</title>
+    <updated>2022-09-19T09:09:33+02:00</updated>
+    <generator uri="https://mahara.org/" version="2008122400">Mahara</generator>
+    <author>
+        <name>Mehdi BELOUKA</name>
+        <email>mehdi.belouka@etu.u-pec.fr</email>
+        <uri>portfolio:artefactinternal</uri>
+    </author>
+
+    <entry>
+        <title>Découverte de Mahara</title>
+        <id>portfolio:view30599</id>
+
+        <updated>2022-09-19T09:09:22+02:00</updated>
+        <published>2022-09-19T09:09:09+02:00</published>
+
+        <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div>Mes premiers pas sur Mahara</div></div></summary>
+
+   <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></subtitle>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><div id="user_block_131276"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_131276">
+    
+    
+        <div class="block-header quick-edit d-none">
+    <a class="modal_link list-group-heading" href="#" title="Édition rapide">
+        <span class="icon icon-pencil-alt" title="Édition rapide"></span>
+        Édition rapide
+    </a>
+</div>
+
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Bloc n°1
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_131276_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>C'est le premier bloc de ma page "Découverte de Mahara".</p>
+<p><img width="189" alt="imae test mahara.jpg.1" src="https://eportfolio.u-pec.fr/artefact/file/download.php?file=86009&amp;view=30599&amp;embedded=1&amp;text=131276" /></p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_131313"><div class="bt-image gridstackblock card card-secondary clearfix" id="user_blockinstance_131313">
+    
+        <div class="block-header d-none">
+    
+        <a class="commentlink" href="#" title="">
+        
+            
+                <span class="icon icon-plus" title="Commentaires et les détails"></span>
+                Ajouter un commentaire
+                <span class="bh-margin-left icon icon-search-plus"></span>
+                Détails
+            
+        
+        </a>
+    
+</div>
+
+    
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Bloc image
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_131313_target">
+        
+        
+            <div class="imageblock card-body">
+    <div class="image">
+        
+        <a class="modal_link" href="#">
+            <img rel="leap2:has_part" href="portfolio:artefact86005" alt="imae test mahara.jpg" title="imae test mahara.jpg" />
+        </a>
+        
+    </div>
+
+    
+</div>
+
+        
+    </div>
+</div>
+</div></div></div></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+
+        <link rel="leap2:has_part" href="portfolio:artefact86005"/>
+
+
+        <category term="Webpage" scheme="categories:selection_type#"/>
+
+
+
+
+
+        <mahara:view mahara:newlayout="1" mahara:type="portfolio" mahara:ownerformat="6">
+        
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Bloc n°1" mahara:positionx="0" mahara:positiony="0" mahara:height="19" mahara:width="3">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;C&#039;est le premier bloc de ma page \&quot;D\u00e9couverte de Mahara\&quot;.&lt;\/p&gt;\r\n&lt;p&gt;&lt;img width=\&quot;189\&quot; height=\&quot;\&quot; style=\&quot;\&quot; alt=\&quot;imae test mahara.jpg.1\&quot; src=\&quot;https:\/\/eportfolio.u-pec.fr\/artefact\/file\/download.php?file=86009&amp;amp;embedded=1&amp;amp;text=131276\&quot;&gt;&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="image" mahara:blocktitle="Bloc image" mahara:positionx="4" mahara:positiony="0" mahara:height="22" mahara:width="2">
+                
+                    
+                    <mahara:artefactid>[&quot;portfolio:artefact86005&quot;]</mahara:artefactid>
+                    
+                
+                    
+                    <mahara:showdescription>[false]</mahara:showdescription>
+                    
+                
+                    
+                    <mahara:width>[&quot;&quot;]</mahara:width>
+                    
+                
+                    
+                    <mahara:retractable>[0]</mahara:retractable>
+                    
+                
+                    
+                    <mahara:retractedonload>[0]</mahara:retractedonload>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+        
+        </mahara:view>
+    </entry>
+
+    <entry>
+        <title>imae test mahara.jpg</title>
+        <id>portfolio:artefact86005</id>
+
+        <updated>2022-09-19T09:09:33+02:00</updated>
+        <published>2022-09-19T09:09:33+02:00</published>
+
+
+
+
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></content>
+        <rdf:type rdf:resource="leap2:resource"/>
+        <mahara:artefactplugin mahara:type="image" mahara:plugin="file"/>
+        <link rel="enclosure" type="image/jpeg" href="export_info/files/86005-imae test mahara.jpg"/>
+        <link rel="leap2:is_part_of" href="portfolio:view30599"/>
+
+
+        <category term="Offline" scheme="categories:resource_type#" label="File"/>
+
+
+
+
+    </entry>
+
+
+</feed>
